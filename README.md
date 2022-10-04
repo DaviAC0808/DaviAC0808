@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaviAC0808
 - 👀 I’m interested in problem solutions
-- 🌱 I’m currently learning Java and python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, HTML, CSS and python
+- 💞️ I’m looking to collaborate on sites
 - 📫 How to reach me? in @daviaguiarcardoso on instagram
 
 <!---

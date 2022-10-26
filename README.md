@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DaviAC0808
-- 👀 I’m interested in problem solutions
-- 🌱 I’m currently learning Java, HTML, CSS and python
-- 💞️ I’m looking to collaborate on sites
-- 📫 How to reach me? in @daviaguiarcardoso on instagram
+- 👋 Oi meu nome é Davi
+- 👀 Uberaba-MG/Brasil
+- 🌱 Estou aprendendo HTML e CSS
+- 💞️ tenho um apego enorme por meus amigos/família
+- 📫 @daviaguiarcardoso me chama na DM do insta
 
 <!---
 DaviAC0808/DaviAC0808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
